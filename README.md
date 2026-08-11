@@ -50,19 +50,11 @@
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabhmehra99-blip&bg_color=000000&color=FFFFFF&line=00A8FF&point=FFFFFF&area=true&area_color=003B5C&hide_border=true&custom_title=Sourabh%20Mehra%20-%20GitHub%20Activity" width="95%" />
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabhmehra99-blip&bg_color=000000&color=FFFFFF&line=00A8FF&point=FFFFFF&area=true&area_color=003B5C&hide_border=true&custom_title=Sourabh%20Mehra%20-%20GitHub%20Activity" width="95%" /> </p>
 
 ---
 
-## 🟩 Contribution Calendar
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/00A8FF/sourabhmehra99-blip" alt="Sourabh Mehra Contribution Graph" />
-</p>
 
 ---
 
