@@ -44,13 +44,18 @@
 
 ## 🔥 Contribution Streak
 
+## 🔥 Contribution Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sourabhmehra99-blip&background=000000&border=00A8FF&stroke=00A8FF&ring=00A8FF&fire=00A8FF&currStreakLabel=00A8FF&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" />
+  <img
+    src="https://streak-stats.demolab.com/?user=sourabhmehra99-blip&theme=dark&hide_border=true&background=000000&ring=00A8FF&fire=00A8FF&currStreakLabel=00A8FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888"
+    alt="Sourabh Mehra GitHub Streak"
+  />
 </p>
+
 
 ---
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabhmehra99-blip&bg_color=000000&color=FFFFFF&line=00A8FF&point=FFFFFF&area=true&area_color=003B5C&hide_border=true&custom_title=Sourabh%20Mehra%20-%20GitHub%20Activity" width="95%" /> </p>
 
 ---
 
