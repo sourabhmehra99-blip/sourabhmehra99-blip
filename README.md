@@ -1,13 +1,12 @@
-## Hi there 👋
 <h1 align="center">👋 Hi, I'm Sourabh Mehra</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=650&lines=Python+Developer+%F0%9F%90%8D;C+Programmer+%E2%9A%99%EF%B8%8F;Student+%F0%9F%8E%93;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=650&lines=Python+Developer+%F0%9F%90%8D;C+Programmer+%E2%9A%99%EF%B8%8F;Student+%F0%9F%8E%93;Always+Learning+%F0%9F%9A%80" alt="Typing SVG">
 </p>
 
 <p align="center">
   <a href="https://github.com/sourabhmehra99-blip">
-    <img src="https://komarev.com/ghpvc/?username=sourabhmehra99-blip&label=Profile%20Views&color=00A8FF&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=sourabhmehra99-blip&label=Profile%20Views&color=00A8FF&style=for-the-badge" alt="Profile Views">
   </a>
 </p>
 
@@ -27,7 +26,7 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,git,github,vscode" alt="Skills">
 </p>
 
 ---
@@ -35,38 +34,41 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabhmehra99-blip&show_icons=true&theme=github_dark&hide_border=true&title_color=00A8FF&icon_color=00A8FF&text_color=FFFFFF&bg_color=000000" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sourabhmehra99-blip&show_icons=true&theme=github_dark&hide_border=true&title_color=00A8FF&icon_color=00A8FF&text_color=FFFFFF&bg_color=000000" height="180" alt="GitHub Stats">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhmehra99-blip&layout=compact&theme=github_dark&hide_border=true&title_color=00A8FF&text_color=FFFFFF&bg_color=000000" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhmehra99-blip&layout=compact&theme=github_dark&hide_border=true&title_color=00A8FF&text_color=FFFFFF&bg_color=000000" height="180" alt="Top Languages">
 </p>
 
 ---
-
-## 🔥 Contribution Streak
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=sourabhmehra99-blip&theme=dark&hide_border=true&background=000000&ring=00A8FF&fire=00A8FF&currStreakLabel=00A8FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888"
-    alt="Sourabh Mehra GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com/?user=sourabhmehra99-blip&theme=dark&hide_border=true&background=000000&ring=00A8FF&fire=00A8FF&currStreakLabel=00A8FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="Sourabh Mehra GitHub Streak">
 </p>
 
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabhmehra99-blip&bg_color=000000&color=FFFFFF&line=00A8FF&point=FFFFFF&area=true&area_color=003B5C&hide_border=true&custom_title=Sourabh%27s%20GitHub%20Activity" width="95%" alt="GitHub Activity Graph">
+</p>
 
 ---
 
+## 🟩 Contribution Calendar
 
----
-
-
+<p align="center">
+  <img src="https://ghchart.rshah.org/00A8FF/sourabhmehra99-blip" alt="Sourabh Mehra Contribution Graph">
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sourabhmehra99-blip&theme=onestar&no-frame=true&no-bg=true&margin-w=8" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sourabhmehra99-blip&theme=onestar&no-frame=true&no-bg=true&margin-w=8" width="95%" alt="GitHub Trophies">
 </p>
 
 ---
@@ -88,11 +90,11 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-Learning-00A8FF?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Learning-00A8FF?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 
-<img src="https://img.shields.io/badge/C-Learning-00A8FF?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C-Learning-00A8FF?style=for-the-badge&logo=c&logoColor=white" alt="C">
 
-<img src="https://img.shields.io/badge/Git-Learning-00A8FF?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-Learning-00A8FF?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 
 </p>
 
@@ -101,7 +103,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sourabhmehra99-blip/sourabhmehra99-blip/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/sourabhmehra99-blip/sourabhmehra99-blip/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
 
 ---
@@ -110,7 +112,7 @@
 
 <p align="center">
   <a href="https://github.com/sourabhmehra99-blip">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00A8FF" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00A8FF" alt="GitHub">
   </a>
 </p>
 
@@ -123,6 +125,3 @@
 <p align="center">
   <i>Thanks for visiting my profile!</i> 🚀
 </p>
-
-
-
