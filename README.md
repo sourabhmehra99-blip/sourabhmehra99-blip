@@ -29,15 +29,6 @@
   <img src="https://skillicons.dev/icons?i=python,c,git,github,vscode" alt="Skills">
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabhmehra99-blip&show_icons=true&theme=github_dark&hide_border=true&title_color=00A8FF&icon_color=00A8FF&text_color=FFFFFF&bg_color=000000" height="180" alt="GitHub Stats">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhmehra99-blip&layout=compact&theme=github_dark&hide_border=true&title_color=00A8FF&text_color=FFFFFF&bg_color=000000" height="180" alt="Top Languages">
-</p>
 
 ---
 ## 🔥 Contribution Streak
@@ -49,8 +40,6 @@
   />
 </p>
 
-https://camo.githubusercontent.com/77f04eeef54726592b7cd0059df4f98b4c3d459856f4c466e93fb1c7e7ec52ba/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d616e73687573696e67682d35362662675f636f6c6f723d30443131313726636f6c6f723d464634444136266c696e653d46463843343226706f696e743d43373744464626617265613d7472756526617265615f636f6c6f723d46463444413626686964655f626f726465723d74727565267261646975733d3132
-## 📈 Contribution Activity
 
 <p align="center">
   <img
@@ -58,13 +47,6 @@ https://camo.githubusercontent.com/77f04eeef54726592b7cd0059df4f98b4c3d459856f4c
     width="95%"
     alt="Sourabh Mehra GitHub Activity Graph"
   />
-</p>
-
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sourabhmehra99-blip&theme=onestar&no-frame=true&no-bg=true&margin-w=8" width="95%" alt="GitHub Trophies">
 </p>
 
 ---
