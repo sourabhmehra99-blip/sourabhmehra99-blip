@@ -40,7 +40,19 @@
   />
 </p>
 
+## 📈 Contribution Graph
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshusingh-56&bg_color=0D1117&color=FF4DA6&line=FF8C42&point=C77DFF&area=true&area_color=FF4DA6&hide_border=true&radius=12" />
+
+</div>
+
+---
+
+<p align="center">
+  <img src="./file_0000000033d071fab49b4ecd0ce34bda.png" alt="My Learning Journey" width="100%">
+</p>
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=sourabhmehra99-blip&bg_color=000000&color=FFFFFF&line=00A8FF&point=00A8FF&area=true&area_color=003B5C&hide_border=true"
