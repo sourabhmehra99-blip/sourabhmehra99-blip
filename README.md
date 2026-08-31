@@ -20,7 +20,7 @@
 * 🧠 Interested in problem solving
 * 💻 Building projects to improve my skills
 * 🚀 Learning something new every day
-* complete 500 commits before 2026
+
 
 ---
 
@@ -61,6 +61,7 @@
 💻 Build Real-World Projects
 🌱 Contribute to Open Source
 🔥 Maintain a Consistent GitHub Streak
+  Complete 500 commits before 2026
 ```
 
 ---
