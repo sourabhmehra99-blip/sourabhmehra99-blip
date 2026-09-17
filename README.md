@@ -39,16 +39,6 @@
   <img src="https://streak-stats.demolab.com?user=sourabhmehra99-blip&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabhmehra99-blip&show_icons=true&theme=tokyonight&hide=issues,contribs&count_private=true&include_all_commits=true" alt="Commit Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabhmehra99-blip&theme=tokyo-night&hide_border=true" alt="Commit Activity Graph">
-</p>
-
-
 ---
 
 ## 🚀 My Goals
@@ -95,19 +85,6 @@
 
 <p align="center">
   <i>Thanks for visiting my profile!</i> 🚀
-## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <!-- Real-time GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabhmehra99-blip&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats">
-</p>
 
-<p align="center">
-  <!-- Contribution Streak -->
-  <img src="https://streak-stats.demolab.com?user=sourabhmehra99-blip&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
 
-<p align="center">
-  <!-- Daily Commit Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabhmehra99-blip&theme=tokyo-night&hide_border=true" alt="Commit Activity Graph">
-</p>
