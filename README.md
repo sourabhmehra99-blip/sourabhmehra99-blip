@@ -34,20 +34,20 @@
 ---
 ## 🔥 Contribution Streak
 
+</p>
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=sourabhmehra99-blip&theme=dark&hide_border=true&background=000000&ring=00A8FF&fire=00A8FF&currStreakLabel=00A8FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888"
-    alt="Sourabh Mehra GitHub Contribution Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=sourabhmehra99-blip&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
 
+</p>
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sourabhmehra99-blip&bg_color=000000&color=FFFFFF&line=00A8FF&point=00A8FF&area=true&area_color=003B5C&hide_border=true"
-    width="95%"
+  <img src="https://github-readme-stats.vercel.app/api?username=sourabhmehra99-blip&show_icons=true&theme=tokyonight&hide=issues,contribs&count_private=true&include_all_commits=true" alt="Commit Stats
     alt="Sourabh Mehra GitHub Activity Graph"
-  />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabhmehra99-blip&theme=tokyo-night&hide_border=true" alt="Commit Activity Graph">
 </p>
 
 ---
@@ -96,7 +96,3 @@
 
 <p align="center">
   <i>Thanks for visiting my profile!</i> 🚀
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sourabhmehra99-blip&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
